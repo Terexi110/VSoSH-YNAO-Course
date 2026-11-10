@@ -1,0 +1,69 @@
+nav:
+- Главная: index.md
+- 01 Введение в CTF:
+  - Легкий: 01-intro-ctf/easy.md
+  - Средний: 01-intro-ctf/medium.md
+  - Сложный: 01-intro-ctf/hard.md
+- 02 Linux:
+  - Где взять Linux: 02-linux/get.md
+  - Легкий: 02-linux/easy.md
+  - Средний: 02-linux/medium.md
+  - Сложный: 02-linux/hard.md
+- 03 Python:
+  - Легкий: 03-python/easy.md
+  - Средний: 03-python/medium.md
+  - Сложный: 03-python/hard.md
+- 04 Криптография:
+  - Легкий: 04-crypto/easy.md
+  - Средний: 04-crypto/medium.md
+  - Сложный: 04-crypto/hard.md
+- 05 Форензика и стего:
+  - Легкий: 05-forensics-stego/easy.md
+  - Средний: 05-forensics-stego/medium.md
+  - Сложный: 05-forensics-stego/hard.md
+- 06 Web:
+  - Легкий: 06-web/easy.md
+  - Средний: 06-web/medium.md
+  - Сложный: 06-web/hard.md
+  - Burp Suite: 06-web/burpsuite.md
+  - Инструменты: 06-web/web-tools.md
+- 07 Сети:
+  - Легкий: 07-networking/easy.md
+  - Средний: 07-networking/medium.md
+  - Сложный: 07-networking/hard.md
+- 07a C / C++:
+  - Легкий: 07a-cpp/easy.md
+  - Средний: 07a-cpp/medium.md
+  - Сложный: 07a-cpp/hard.md
+- 08 Реверс:
+  - Легкий: 08-reverse/easy.md
+  - Средний: 08-reverse/medium.md
+  - Сложный: 08-reverse/hard.md
+  - Ghidra: 08-reverse/ghidra.md
+- 09 Pwn:
+  - Легкий: 09-pwn/easy.md
+  - Средний: 09-pwn/medium.md
+  - Сложный: 09-pwn/hard.md
+- 10 Misc:
+  - Легкий: 10-misc/easy.md
+  - Средний: 10-misc/medium.md
+  - Сложный: 10-misc/hard.md
+- Приложения: 11-appendix.md
+plugins:
+- search
+site_name: Подготовка к ВсОШ CTF
+theme:
+  features:
+  - navigation.expand
+  - content.code.copy
+  language: ru
+  name: material
+  palette:
+  - scheme: default
+    toggle:
+      icon: material/brightness-7
+      name: Переключить на тёмную тему
+  - scheme: slate
+    toggle:
+      icon: material/brightness-4
+      name: Переключить на светлую тему
