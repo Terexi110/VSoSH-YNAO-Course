@@ -9,6 +9,7 @@ nav:
   - Легкий: 02-linux/easy.md
   - Средний: 02-linux/medium.md
   - Сложный: 02-linux/hard.md
+  - SSH: 02-linux/ssh.md
 - 03 Python:
   - Легкий: 03-python/easy.md
   - Средний: 03-python/medium.md
